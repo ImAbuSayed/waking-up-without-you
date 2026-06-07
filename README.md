@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/waking-up-without-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Waking Up Without You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waking-up-without-you/) |
+| **Get License** | [Get License For Waking Up Without You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waking-up-without-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I reach across the pillow where you used to lay your head
+> Now there's nothing but the shadows lying with me in this bed
+> The morning light feels heavy when it's shining on the truth
+> I am burning in the quiet, waking up without you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
