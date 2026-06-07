@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Waking Up Without You
+
+This log tracks the cryptographic history and versioning for the song **Waking Up Without You** (waking-up-without-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:21:21.877607 | `v1` | `9fbce9f921faca92eeacc04415014cf370e7b68397cd546d53d2075a799eb44b` | `9a59bce9eee7575523fc3fd525ab91807226fd3bffbe2b816098de1ba91218b3` | `2026-06-07_waking-up-without-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
